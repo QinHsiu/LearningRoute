@@ -12,6 +12,9 @@
 ### a case：[case](https://blog.csdn.net/datawhale/article/details/80847662)
 
 # Machine Learning
+### 李宏毅机器学习教程：[教程](https://aistudio.baidu.com/aistudio/education/group/info/1978)
+### 李宏毅机器学习进阶教程：[教程](https://aistudio.baidu.com/aistudio/education/group/info/1979)
+
 ### 吴恩达机器学习教程：[双语教程](https://www.bilibili.com/video/BV164411S78V)
 ### 吴恩达机器学习中文笔记：[笔记&代码](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 
