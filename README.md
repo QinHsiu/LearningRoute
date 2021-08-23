@@ -11,6 +11,9 @@
 ### this folder is used to save some running case
 ### a data mining case：[case](https://blog.csdn.net/datawhale/article/details/80847662)
 
+# ML_in_A
+### 这些程序和笔记全部来自于：机器学习实战(伊斯特里亚人)
+
 # Machine Learning
 ### 李宏毅机器学习教程：[教程](https://aistudio.baidu.com/aistudio/education/group/info/1978)
 ### 李宏毅机器学习进阶教程：[教程](https://aistudio.baidu.com/aistudio/education/group/info/1979)
