@@ -6,6 +6,7 @@
 ### numpy_basic：[numpy](https://github.com/QinHsiu/numpy-100)
 ### pandas_basic：[pandas](https://github.com/QinHsiu/machine_learning_beginner/tree/master/pandas)
 ### feature engineer：[链接](https://blog.csdn.net/Datawhale/article/details/83033869)
+### Sklearn_basic :[sklearn](https://github.com/QinHsiu/Sklearn) 
 
 # DataAnalysis_case
 ### this folder is used to save some running case
