@@ -1,4 +1,4 @@
-# DataAnalysis_basic
+# 01 Basic
 ### this folder is derived from a online course: [course](https://www.bilibili.com/video/BV1HJ411j7NG)
 ### 数学.docx is derived from a online course：[course](https://www.bilibili.com/video/BV1az4y1f7di?from=search&seid=15002071248191184005)
 ### python basic：[basic](https://blog.csdn.net/qxyloveyy/article/details/115278014)
@@ -8,14 +8,14 @@
 ### feature engineer：[链接](https://blog.csdn.net/Datawhale/article/details/83033869)
 ### Sklearn_basic :[sklearn](https://github.com/QinHsiu/Sklearn) 
 
-# DataAnalysis_case
+# 02 Case
 ### this folder is used to save some running case
 ### a data mining case：[case](https://blog.csdn.net/datawhale/article/details/80847662)
 
-# ML_in_A
-### 这些程序和笔记全部来自于：机器学习实战(伊斯特里亚人)
 
-# Machine Learning
+
+# 03 Course
+
 ### 李宏毅机器学习教程：[教程](https://aistudio.baidu.com/aistudio/education/group/info/1978)
 ### 李宏毅机器学习进阶教程：[教程](https://aistudio.baidu.com/aistudio/education/group/info/1979)
 
