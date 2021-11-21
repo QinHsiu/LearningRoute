@@ -12,12 +12,7 @@
 ### this folder is used to save some running case
 ### a data mining case：[case](https://blog.csdn.net/datawhale/article/details/80847662)
 
-![QQ截图20211121103830](https://user-images.githubusercontent.com/45679850/142747391-467b9c51-9791-4900-9608-3994dc233986.png)
-
-
-
 # 03 Course
-
 ### 李宏毅机器学习教程：[教程](https://aistudio.baidu.com/aistudio/education/group/info/1978)
 ### 李宏毅机器学习进阶教程：[教程](https://aistudio.baidu.com/aistudio/education/group/info/1979)
 
