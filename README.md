@@ -8,9 +8,16 @@
 ### feature engineer：[链接](https://blog.csdn.net/Datawhale/article/details/83033869)
 ### Sklearn_basic :[sklearn](https://github.com/QinHsiu/Sklearn) 
 
+<br/>
+
+<br/>
+
 # 02 Case
-### this folder is used to save some running case
 ### a data mining case：[case](https://blog.csdn.net/datawhale/article/details/80847662)
+
+<br/>
+
+<br/>
 
 # 03 Course
 ### 李宏毅机器学习教程：[教程](https://aistudio.baidu.com/aistudio/education/group/info/1978)
