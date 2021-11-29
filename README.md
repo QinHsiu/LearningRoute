@@ -47,3 +47,54 @@
 ### 李航《统计学方法》：[参考笔记](https://zhuanlan.zhihu.com/p/36378498)
 
 ### 《Scikit-Learn 与 TensorFlow 机器学习实用指南》：[代码](https://github.com/QinHsiu/handson-ml)
+
+
+
+### Python代码库
+
+##### Python开发资源大全:[https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)
+
+##### 中文版本:[https://github.com/jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+
+##### 应用程序:[https://github.com/mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)
+
+##### Pytorch:[https://github.com/bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+
+##### python异步:[https://github.com/timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)
+
+##### jupyter:[https://github.com/markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter)
+
+##### python书单[https://github.com/Junnplus/awesome-python-books](https://github.com/Junnplus/awesome-python-books)
+
+### 图书文档
+
+##### O'Really书单:[https://github.com/cosmicpython/book](https://github.com/cosmicpython/book)
+
+##### 黑魔法:[https://github.com/iswbm/magic-python](https://github.com/iswbm/magic-python)
+
+##### 机器学习:[https://github.com/rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+
+### 面试问题
+
+##### 经典编程面试:[https://github.com/StBogdan/CTCI_python](https://github.com/StBogdan/CTCI_python)
+
+##### 面试题集:[https://github.com/sigmavirus24/python-interview-questions](https://github.com/sigmavirus24/python-interview-questions)
+
+##### 交互式编程题:[https://github.com/donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
+
+##### Python面试题:[https://github.com/learning-zone/python-interview-questions](https://github.com/learning-zone/python-interview-questions)
+
+### 数据结构与算法
+
+##### python3的数据结构:[https://github.com/keon/algorithms](https://github.com/keon/algorithms)
+
+##### 数据结构与算法面试:[https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews)
+
+##### Python算法:[https://github.com/prakhar1989/Algorithms](https://github.com/prakhar1989/Algorithms)
+
+### 学习Python
+
+##### 基于项目的学习:[https://github.com/tuvtran/project-based-learning#python](https://github.com/tuvtran/project-based-learning#python)
+
+
+
